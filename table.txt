@@ -1,0 +1,4 @@
+001/Kearitin Shampoo/6800/10/Shampoo
+002/Dove Go Body Lotion/3800/10/Body Lotion
+001/Kearitin Shampoo/6800/8/Shampoo
+001/Kearitin Shampoo/6800/5/Shampoo
